@@ -8,14 +8,15 @@ Welcome! I have a lot to offer in technical and marketing expertise for your pro
   <ul>
     <li>C++ Programmer
       <ul>
-        <li>specializing in algorithms implemented using templates and classes that work together to solve your issues
-        <li>
-        <li>I've learned and used approximately 50 other technical languages in my career
+        Algorithm Design implemented as templates
+        Data Design implemented as Classes
+        </li>
       </ul>
-    <li>Customer Advocate: I ensure that the customer is always heard in any design decision
     <li>System Architect
     <li>Technical Product Manager
     <li>Product Marketing Manager
+      <ul><li>Engaging with you as you support your customers
+      </ul>
     <li>Advertising Copywriter
     <li>Advertising Proof Editor
     <li>User Manual Author
