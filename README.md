@@ -2,18 +2,18 @@
 <h1>
   Howard Gebb
 </h1>
-Welcome! I have a lot to offer in technical and marketing expertise for your project.
+Welcome! I have a lot to offer wuth technical and marketing expertise for your project.
 <ul>
-  <br>I'm an experienced
+  <br>I am a:
   <ul>
-    <li>C++ Programmer
+    <li>C++ Programmer with extensive skills in
       <ul>
-        Algorithm Design implemented as templates
-        Data Design implemented as Classes
+        <li>Generic Programming. Algorithm design implemented as templates
+        <li>Data Design implemented as Classes
         </li>
       </ul>
     <li>System Architect
-    <li>Technical Product Manager
+    <li>Product Development Manager
     <li>Product Marketing Manager
       <ul><li>Engaging with you as you support your customers
       </ul>
@@ -22,7 +22,7 @@ Welcome! I have a lot to offer in technical and marketing expertise for your pro
     <li>User Manual Author
     <li>Course Author and Instructor
     <li>Chef
-    <li>Listener: I get calls at 4 A.M. from friends, who "just want (or need) to talk."
+    <li>Listener: I get calls at 4 A.M. from friends who "just want (or need) to talk."
 </ul>
 <li>I’m interested in helping clients use
 <ul>
